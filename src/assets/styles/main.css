@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "tailwindcss-primeui";
+@import "primeicons/primeicons";
+
+@font-face {
+  font-family: Sis;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("/fonts/Sis.otf") format("otf");
+}
+
+@theme {
+  --font-sis: "Sis", sans-serif; 
+}
+
