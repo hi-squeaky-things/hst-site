@@ -10,8 +10,8 @@
         <router-link to="/research">
           <span class="text-m font-bold rounded-lg bg-purple-300 ml-3 p-2 underline decoration-dotted">Research</span>
         </router-link>
-        <router-link to="/product">
-          <span class="text-m font-bold rounded-lg bg-purple-300 ml-3 p-2 underline decoration-dotted">Product</span>
+        <router-link to="/products">
+          <span class="text-m font-bold rounded-lg bg-purple-300 ml-3 p-2 underline decoration-dotted">Products</span>
         </router-link>
         <router-link to="/music">
 
