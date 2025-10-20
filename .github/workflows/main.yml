@@ -14,5 +14,8 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 22.14.0
-      - name: install packages
-        run: npm install
+      - run: npm cache clean --force
+      - run: rm -rf node_modules package-lock.json
+      - run: npm install -g npm@latest
+      - run: npm install
+      - run: npm run build
