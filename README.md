@@ -1,6 +1,6 @@
 # hst-site
 
-This template should help get you started developing with Vue 3 in Vite.
+Static website for Hi Squeaky Things Lab.
 
 ## Recommended IDE Setup
 
