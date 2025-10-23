@@ -8,7 +8,7 @@
     <router-view></router-view>
   </div>
   <footer class="bg-red-500 text-white p-4 mt-auto text-xs">
-    <p>&copy; 2025 ⚡ Hi Squeaky Things Labs ⚡ All rights reserved.</p>
+    <p>&copy; 2025  ⚡ Hi Squeaky Things Labs ⚡ All rights reserved.</p>
   </footer>
 </template>
 
